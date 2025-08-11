@@ -1,3 +1,3 @@
 # Quantum Galton Board
 
-Run `expamle.py` file from the directory `projects_deliverables`.
+Run `expamle_runs.py` file from the directory `projects_deliverables`.
